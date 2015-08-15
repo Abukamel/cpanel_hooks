@@ -17,7 +17,7 @@ import argparse  # May need python-argparse package
 __author__ = "Ahmed Kamel"
 __copyright__ = "Copyright (C) 2015, Ahmed Kamel"
 __credits__ = ["Ahmed Kamel"]
-__license__ = "GPL"
+__license__ = "Apache"
 __version__ = "0.1"
 __maintainer__ = "Ahmed Kamel"
 __email__ = "k.tricky@gmail.com"
